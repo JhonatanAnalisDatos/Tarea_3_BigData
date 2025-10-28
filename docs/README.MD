@@ -91,8 +91,7 @@ proyecto-spark-patrimonio-lorica/
 ├── data/                            # Dataset original  
 │   └── stscl.csv                   # 50 bienes patrimoniales
 └── docs/                           # Documentación
-    ├── README.md                   # Este archivo
-    └── capturas/                   # Evidencias de funcionamiento
+    └── README.md                   # Este archivo
 
 
 Autor
@@ -101,4 +100,5 @@ Jhonatan Jair Sibaja Perez
 Universidad Nacional Abierta y a Distancia (UNAD)
 
 Licencia
+
 Este proyecto es con fines educativos como parte de [Big Data].
